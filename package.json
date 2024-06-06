@@ -1,0 +1,19 @@
+{
+  "name": "cryptomed",
+  "version": "1.0.0",
+  "description": "This project is the main view of cryptomed project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Adrian Paredes V",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mysql2": "^3.10.0"
+  }
+}
